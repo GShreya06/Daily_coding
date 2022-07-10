@@ -6,6 +6,5 @@ while(n>0):
     rev=(rev*10)+a;
     s1+=a;
     n=n//10;
-    
 print("Reverse of digits is:",rev);
 print("Sum of Digits is:",s1);
