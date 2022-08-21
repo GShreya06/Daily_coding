@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1628144682 source:d:\program files\ds programs\mastertheorem\main.cpp
+	<iostream>
+	<cmath>
+

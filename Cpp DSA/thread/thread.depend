@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1639113284 source:d:\program files\ds programs\thread\main.cpp
+	<iostream>
+	<pthread.h>
+
